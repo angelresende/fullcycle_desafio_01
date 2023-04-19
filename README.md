@@ -8,7 +8,9 @@
 
 ## 🚀 Informações do desafio
 
-<p><strong>docker run angelresende007/fullcycle</strong></p>
+<p><strong>Link Docker Hub: </strong> https://hub.docker.com/r/angelresende007/fullcycle</p>
+<p><strong>Comando: </strong>docker pull angelresende007/fullcycle</p>
+<p><strong>Comando: </strong>docker run angelresende007/fullcycle</p>
 
 
 <p>Temos que ter o seguinte resultado: Full Cycle Rocks!!
